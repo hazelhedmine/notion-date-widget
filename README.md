@@ -1,3 +1,3 @@
-# Notion Date Widget
+# Notion Widgets
 
-Adapted from https://elliegons.notion.site/widgets-journal-template-9da6937c626949d1aafa2e855eb999a2
+Contains html pages to embed in Notion.
